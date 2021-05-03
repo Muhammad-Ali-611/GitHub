@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testing.org/testng-1.0.dtd">
+
+<suite name = "GitHub Test Script" parallel ="false">
+    <parameter name="url" value = "https://github.com/"></parameter>
+
+<test name="">name = "Amazon.com"</test>
+
+<classes><class name="landingPage.Search"/>
+</classes>
+
+</suite>
